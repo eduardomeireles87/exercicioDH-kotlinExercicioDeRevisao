@@ -7,6 +7,7 @@ Obs: Use os conceitos de classes e construtores aprendidos em sala de aula para 
 exercícios.
 
 Exercício 1
+
 A Digital House decidiu desenvolver um sistema de cadastro de alunos com seus respectivos cursos,
 professores responsáveis e turmas, para esse sistema foram levantados os seguintes requisitos:
 • A matéria dada em cada aula possui um nome;
@@ -20,6 +21,7 @@ professores responsáveis e turmas, para esse sistema foram levantados os seguin
 
 
 Exercício 2
+
 Crie uma classe chamada Fatura que possa ser utilizado por uma loja de
 suprimentos de informática para representar uma fatura de itens vendidos na loja.
 Uma fatura deve incluir as seguintes informações como atributos:
@@ -39,6 +41,7 @@ Fatura.
 
 
 Exercício 3
+
 Escreva uma classe Estoque. Ela deverá possuir:
 • os atributos nome (String), qtdAtual (Int) e qtdMinima (Int);
 • as funções com as seguintes assinaturas:
