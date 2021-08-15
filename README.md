@@ -3,10 +3,13 @@
 
 Revisão - exercícios
 
+
 Obs: Use os conceitos de classes e construtores aprendidos em sala de aula para a resolução dos
 exercícios.
 
+
 Exercício 1
+
 
 A Digital House decidiu desenvolver um sistema de cadastro de alunos com seus respectivos cursos, professores responsáveis e turmas, para esse sistema foram levantados os seguintes requisitos:
 
@@ -29,6 +32,7 @@ A Digital House decidiu desenvolver um sistema de cadastro de alunos com seus re
 
 Exercício 2
 
+
 Crie uma classe chamada Fatura que possa ser utilizado por uma loja de suprimentos de informática para representar uma fatura de itens vendidos na loja.
 Uma fatura deve incluir as seguintes informações como atributos:
 
@@ -50,6 +54,8 @@ Escreva um arquivo com uma função Main de teste que demonstra os comportamento
 
 Exercício 3
 
+
+
 Escreva uma classe Estoque. Ela deverá possuir:
 
 • os atributos nome (String), qtdAtual (Int) e qtdMinima (Int);
@@ -62,6 +68,7 @@ fun repor(Int qtd): Unit
 fun darBaixa(Int qtd): Unit
 fun mostra(): Unit
 fun precisaRepor(): Boolean
+
 
 Os atributos qtdAtual e qtdMinima jamais poderão ser negativos.
 
